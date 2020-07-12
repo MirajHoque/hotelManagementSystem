@@ -1,8 +1,8 @@
 # residentialHotelManagementSystem creted by using C#
 
 
-##corFeature
-1. sperate log in as operator/admin.
+##coreFeature
+1.sperate log in as operator/admin.
 2.guest reservation
 3.restaurant section
 4.laundry section
